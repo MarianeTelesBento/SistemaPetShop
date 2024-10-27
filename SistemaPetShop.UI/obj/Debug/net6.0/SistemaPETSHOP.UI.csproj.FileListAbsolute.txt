@@ -1,0 +1,14 @@
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\obj\Debug\net6.0\SistemaPETSHOP.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\obj\Debug\net6.0\SistemaPETSHOP.UI.AssemblyInfoInputs.cache
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\obj\Debug\net6.0\SistemaPETSHOP.UI.AssemblyInfo.cs
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\obj\Debug\net6.0\SistemaPETSHOP.UI.csproj.CoreCompileInputs.cache
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\bin\Debug\net6.0\SistemaPETSHOP.UI.exe
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetshop.UI\bin\Debug\net6.0\SistemaPETSHOP.UI.deps.json
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetshop.UI\bin\Debug\net6.0\SistemaPETSHOP.UI.runtimeconfig.json
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\bin\Debug\net6.0\SistemaPETSHOP.UI.dll
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\bin\Debug\net6.0\SistemaPETSHOP.UI.pdb
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\obj\Debug\net6.0\SistemaPETSHOP.UI.dll
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\obj\Debug\net6.0\refint\SistemaPETSHOP.UI.dll
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetShop.UI\obj\Debug\net6.0\SistemaPETSHOP.UI.pdb
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetshop.UI\obj\Debug\net6.0\SistemaPETSHOP.UI.genruntimeconfig.cache
+C:\Users\mariane.tbento\source\repos\SistemaPetShop\SistemaPetshop.UI\obj\Debug\net6.0\ref\SistemaPETSHOP.UI.dll

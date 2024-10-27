@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaCadastroAgendamentoPETSHOP.UI", "SistemaCadastroAgendamentoPETSHOP.UI\SistemaCadastroAgendamentoPETSHOP.UI.csproj", "{90447E89-C8E3-43FF-9BC8-662EE8E68C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90447E89-C8E3-43FF-9BC8-662EE8E68C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90447E89-C8E3-43FF-9BC8-662EE8E68C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90447E89-C8E3-43FF-9BC8-662EE8E68C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90447E89-C8E3-43FF-9BC8-662EE8E68C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50832AD4-542D-4428-831C-05F8A40666BD}
+	EndGlobalSection
+EndGlobal
